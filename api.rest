@@ -1,5 +1,5 @@
 @host =http://localhost:8000
-@phoneNumber=254713541368
+@phoneNumber=2547XXXXXXXX
 
 
 ###
